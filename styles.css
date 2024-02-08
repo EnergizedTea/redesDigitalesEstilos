@@ -1,10 +1,10 @@
-titulo{
+.titulo{
     color: black;
     text-align: center;
     background-color: bisque;
 }
 
-texto{
+.texto{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15pt;
     text-align: justify;
